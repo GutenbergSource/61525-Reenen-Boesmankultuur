@@ -1,0 +1,46 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/book.png" filesize="219" filedate="2018-12-16 13:38:04" width="16px" height="16px">
+</image>
+<image path="images/card.png" filesize="230" filedate="2018-12-16 13:38:05" width="16px" height="11px">
+</image>
+<image path="images/external.png" filesize="159" filedate="2018-12-16 13:38:05" width="12px" height="12px">
+</image>
+<image path="images/fig01.png" filesize="45512" filedate="2020-02-23 15:34:35" width="558px" height="720px">
+</image>
+<image path="images/fig02.png" filesize="19178" filedate="2020-02-23 15:34:40" width="490px" height="720px">
+</image>
+<image path="images/fig03.png" filesize="16761" filedate="2020-02-23 21:24:45" width="574px" height="720px">
+</image>
+<image path="images/fig04.png" filesize="37559" filedate="2020-02-23 21:24:48" width="568px" height="720px">
+</image>
+<image path="images/fig05.png" filesize="129450" filedate="2020-02-23 21:24:49" width="561px" height="720px">
+</image>
+<image path="images/fig06.png" filesize="80770" filedate="2020-02-23 21:24:53" width="720px" height="457px">
+</image>
+<image path="images/fig07.png" filesize="129391" filedate="2020-02-24 20:58:04" width="569px" height="720px">
+</image>
+<image path="images/fig08.png" filesize="131625" filedate="2020-02-24 20:58:07" width="546px" height="720px">
+</image>
+<image path="images/fig09.png" filesize="87118" filedate="2020-02-24 20:58:11" width="519px" height="720px">
+</image>
+<image path="images/fig10.png" filesize="59429" filedate="2020-02-23 21:24:56" width="356px" height="720px">
+</image>
+<image path="images/fig11.png" filesize="33724" filedate="2020-02-24 20:58:16" width="720px" height="562px">
+</image>
+<image path="images/fig12.png" filesize="124905" filedate="2020-02-23 15:34:42" width="720px" height="560px">
+</image>
+<image path="images/frontcover.jpg" filesize="76117" filedate="2020-02-23 13:44:21" width="481px" height="720px">
+</image>
+<image path="images/frontispiece.png" filesize="31006" filedate="2020-01-03 20:39:11" width="493px" height="720px">
+</image>
+<image path="images/plaat-a.jpg" filesize="138366" filedate="2020-02-24 20:58:17" width="542px" height="720px">
+</image>
+<image path="images/plaat-b.jpg" filesize="101381" filedate="2020-02-24 20:58:17" width="452px" height="720px">
+</image>
+<image path="images/plaat-c.jpg" filesize="110706" filedate="2020-02-23 21:24:56" width="720px" height="493px">
+</image>
+<image path="images/qrcode.png" filesize="266" filedate="2020-02-28 20:49:01" width="148px" height="148px">
+</image>
+<image path="images/titlepage.png" filesize="8224" filedate="2020-01-03 20:39:14" width="489px" height="720px">
+</image>
+</images>
